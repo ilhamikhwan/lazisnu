@@ -416,7 +416,7 @@ return array(
 	//----- Version 4.0
 	'protected_recaptcha' => 'protected by reCAPTCHA',
 	'gallery' => 'Galeri',
-	'add_payment' => 'Add Payment',
+	'add_payment' => 'Tambahkan',
 	'image' => 'Image',
 	'captcha_on_donations' => 'Captcha dalam donasi',
 
