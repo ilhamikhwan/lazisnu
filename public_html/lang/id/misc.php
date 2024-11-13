@@ -444,7 +444,7 @@ return array(
 	'info_campaign_goal' => 'The payment processors charges will apply, and :percentage% of the platform to each donation you receive.', // Not edit :percentage%
 
 	//----- Version 4.5
-	'language' => 'Language',
+	'language' => 'Bahasa',
 	'important' => 'Important',
 	'page_lang' => 'Select the language that you will write this page',
 	'default_language' => 'Bahasa Bawaan',

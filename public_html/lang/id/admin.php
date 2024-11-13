@@ -122,7 +122,7 @@ return array(
     'paypal_account'            =>      'Paypal Account',
 	'paypal_account_donations'  =>      '* Email to receive donations',
 	'paypal_desc_donations'     =>      'GoStock! Support',
-    'languages'                 =>      'Languages',
+    'languages'                 =>      'Bahasa',
     'abbreviation'              =>      'Abbreviation',
     'important_note'            =>      'IMPORTANT: You must place the name of the correct folder located at: lang',
     'authorized_to_upload'      =>      'Authorized to upload',
