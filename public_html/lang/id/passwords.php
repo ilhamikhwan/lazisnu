@@ -13,11 +13,11 @@ return [
     |
     */
 
-    'password' => 'Kata sandi minimal harus enam karakter dan cocok dengan konfirmasi.',
-    'reset' => 'Password anda telah dirubah!',
-    'sent' => 'Kami telah mengirimkan tautan pengaturan ulang kata sandi Anda melalui email!',
-    'token' => 'Token pengaturan ulang kata sandi anda tidak valid.',
-    'user' => "kami tidak menemukan alamat email tersebut.",
-    'subject' => "Rubah Password",
+    'password' => 'Kata sandi minimal harus enam karakter dan sesuai dengan konfirmasi password.',
+    'reset' => 'Kata sandi Anda telah diubah!',
+    'sent' => 'Kami telah mengirimkan tautan ubah kata sandi melalui email anda!',
+    'token' => 'Token pengaturan ubah kata sandi ini tidak valid.',
+    'user' => "Kami tidak dapat menemukan pengguna dengan alamat email itu.",
+    'subject' => "Ubah kata sandi.",
 
 ];

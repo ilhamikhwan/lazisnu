@@ -9,14 +9,14 @@ return array(
 	|
 	*/
 
-	"error_404"         => "404 Page not found",
-	"error_403"         => "Error 403",
-	"error_406"         => "Error 406",
+	"error_404"               => "404 Halaman Tidak Ditemukan",
+	"error_403"               => "Error 403",
+	"error_406"               => "Error 406",
 
-	"error_404_description"         => "Oops! Page not found.",
-	"error_404_subdescription"      => "Sorry, that page does not found!",
-	"error_403_description"         => "Sorry, access forbidden!",
-	"error_406_description"         => "Sorry, not acceptable!",
+	"error_404_description"   => "Ups! Halaman tidak ditemukan.",
+	"error_404_subdescription"=> "Maaf, halaman yang Anda cari tidak ditemukan!",
+	"error_403_description"   => "Maaf, akses dilarang!",
+	"error_406_description"   => "Maaf, tidak dapat diterima!",
 
 	/*
 	|--------------------------------------------------------------------------
@@ -25,11 +25,12 @@ return array(
 	|
 	*/
 
-	"error_user_banned"         => "Sorry, This user has been banned!",
-	"error_user_delete"         => "Sorry, This user has been deleted!",
-	"go_home"                   => "Go to home page",
+	"error_user_banned"         => "Maaf, Pengguna ini telah dibanned!",
+	"error_user_delete"         => "Maaf, Pengguna ini telah dihapus!",
+	"go_home"                   => "Kembali ke halaman utama",
 
-	"error_required_mail" => "Error! Your email is required, Go to app settings and delete our app and try again",
-	"mail_exists" => 'Error! the email is already in use by another user.',
+	"error_required_mail"       => "Error! Email Anda diperlukan, Pergi ke pengaturan aplikasi dan hapus aplikasi kami, lalu coba lagi",
+	"mail_exists"               => "Error! Email ini sudah digunakan oleh pengguna lain.",
+
 
 );

@@ -19,7 +19,7 @@ return array(
 	'main_menu'                 =>      'Main Menu',
 	'success_update'            =>      'Changes saved successfully',
 	'more_info'                 =>      'More info',
-	'general_settings'          =>      'xxGeneral Settings',
+	'general_settings'          =>      'General Settings',
 	'pages'                     =>      'Pages',
 	'no_pages'                  =>      'You haven\'t created any page',
 	'add_page'                  =>      'Add a Page',
